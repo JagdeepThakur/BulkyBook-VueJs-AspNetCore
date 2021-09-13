@@ -1,5 +1,7 @@
 ﻿<template>
     <v-app>
-        <p> TEst </p>
+        <p>TEst</p>
     </v-app>
 </template>
+
+<script src="./index.ts"></script>

@@ -38,7 +38,7 @@ namespace Web.Middleware
                 {
                     FileName = isWindows ? "cmd" : "npm",
                     Arguments = $"{(isWindows ? "/c npm " : "")}run serve",
-                    WorkingDirectory = "clientapp",
+                    WorkingDirectory = "ClientApp",
                     RedirectStandardError = true,
                     RedirectStandardInput = true,
                     RedirectStandardOutput = true,
