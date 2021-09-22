@@ -1,5 +1,5 @@
 ﻿<template>
-    <v-app toolbar style="background-color: #eef5f5">
+    <v-app toolbar style="background-color: lightblue">
         <header-component></header-component>
         <v-main>
             <v-container fluid style="overflow-y: auto !important">
